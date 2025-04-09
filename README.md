@@ -1,8 +1,11 @@
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/de2050b7-1040-4ac8-ae62-a9a9f813953b" alt="miles" style="max-width:100%; height:auto;">
+    <img src="https://github.com/user-attachments/assets/de2050b7-1040-4ac8-ae62-a9a9f813953b" alt="miles" width="500">
 </div>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alvin+Symo+Yago!;&color=C91518" />
+</h1>
 
 <h3 align="center">A passionate software developer from Philippines </h3>
 
