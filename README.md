@@ -1,18 +1,68 @@
-# 💫 About Me:
-🔭 I’m currently working on a e-commerce website using Laravel<br><br>🌱 I’m currently learning and improving my skills in Java and database integration<br><br>
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/de2050b7-1040-4ac8-ae62-a9a9f813953b" alt="miles" style="max-width:100%; height:auto;">
+</div>
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/alvin.yago.1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alvinsymo@gmail.com) 
+<h3 align="center">A passionate software developer from Philippines </h3>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mosyhub&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mosyhub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mosyhub&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=mosyhub&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+ 
+ 🔭 I’m currently working on personal and small academic projects
+ 
+ 🌱 I’m currently learning **Laravel and PHP**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📫 Let's build something awesome together — connect with me on Facebook, Instagram, Discord, or just drop me an email!
+
+ </div>
+
+<div align="center"> 
+  <a href="mailto:alvin.symo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="35" />
+  </a>
+  <a href="https://www.facebook.com/alvin.yago.1">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" />
+  </a>
+  <a href="https://www.instagram.com/as.mosy/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
+  </a>
+  <a href="https://discordapp.com/users/846194203791982613" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+</div>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,laravel" />
+    <img src="https://skillicons.dev/icons?i=javascript,java,mysql,php,vscode,visualstudio,github,git" /><br>
+</div>
+
+<h2 align="center">🌱 Contributions</h2>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mosyhub&theme=github-compact&hide_border=false" alt="Contribution Graph"/>
+</div>
+
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=mosyhub&theme=dark&hide_border=false&border_radius=10" alt="GitHub Streak Stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=mosyhub&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false&border_radius=10" alt="GitHub Stats"/>
+  <br/>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosyhub&theme=dark&hide_border=false&layout=compact&border_radius=10&langs_count=8" alt="Top Languages"/>
+</div>
+
+<br/><br/>
+
+<hr/>
+
+
+ 
+  
+
+ 
+
